@@ -4,6 +4,6 @@
 
 
 print('Heloo,What are your name? ')
-A = input()
-print('Hello, '+A)
+Argument = input()
+print('Hello, '+Argument)
 
