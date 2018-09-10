@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 
 
-F=input('Input Fahrenheit temperature: ')
+temper_farenheit = input('Input Fahrenheit temperature: ')
 
 
-C=(int(F)-32)/1.8
+temper_celsius=(int(temper_farenheit)-32)/1.8
 
-print('Celsius temperature: ' + str(C))
+print('Celsius temperature: ' + str(temper_celsius))
 
