@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
 
-S = 2+2
+Summ = 2+2
 
-print(S)
+print(Summ)
