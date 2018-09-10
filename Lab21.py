@@ -6,6 +6,6 @@ import sys
 
 arguments = sys.argv[1:]
 
-A = ' '.join(arguments)
+Argument = ' '.join(arguments)
 
-print('Hello,' +A)
+print('Hello,' +Argument)
