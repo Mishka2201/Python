@@ -4,6 +4,6 @@
 
 
 print('Heloo,What are your name? ')
-A=input()
+A = input()
 print('Hello, '+A)
 
